@@ -24,9 +24,11 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
 * **Excel (Data Engineering):**
     * Modelagem de cenários estatísticos com aleatoriedade controlada para simular padrões de consumo realistas.
     * Tratamento de "Data Patching" para adequar os dados da fonte à realidade do cenário fictício.
+   <br>
 * **Power Query (ETL Avançado):**
     * **Explosão de Granularidade:** Transformação de dados semanais em diários para análise temporal precisa.
     * **Limpeza Lógica:** Tratamento de datas anteriores à inauguração e propagação de atributos.
+   <br>
 * **Power BI (DAX & Visualização):**
     * **Modelagem:** Star Schema com tabelas Fato e Dimensões.
     * **DAX Avançado:** Manipulação de contexto de filtro para métricas de eficiência e inteligência de tempo.
