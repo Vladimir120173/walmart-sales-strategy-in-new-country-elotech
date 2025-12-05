@@ -12,8 +12,10 @@ Um artigo descrevendo toda a saga que essa remodelagem acabou se transformando e
 <br>
 
 🔗 **[Clique Aqui para acessar o dashboard interativo](link_em_breve)**
+<br>
 
-*Importante:* Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou qualquer outro motivo, ainda assim é possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Project deste repositório.
+**Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou por qualquer outro motivo, ainda assim será possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Projetc deste repositório.
+
 ---
 
 ## 🛠️ Engenharia e Tecnologias
