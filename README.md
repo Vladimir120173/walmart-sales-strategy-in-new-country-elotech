@@ -7,6 +7,10 @@ Este projeto simula um cenário complexo de expansão da rede de varejo Walmart 
 
 > 📂 **Nota:** Para fins de preservação e facilidade de acesso, uma cópia do arquivo original (`Walmart_sales_analysis.csv`) também está disponível na pasta **[Dataset](./Datasets)** deste repositório.
 
+
+## Um artigo descrevendo toda a saga que essa remodelagem acabou se transformando estará disponível, muito em breve. Assim que estiver pronto, substituirei esssa linha pelo link para acesso.
+
+
 🔗 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD INTERATIVO](link_em_breve)**
 
 **Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou qualquer outro motivo, ainda assim é possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Project deste repositório.
@@ -41,14 +45,17 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
 
 ### 1. Evolução Histórica
 Monitoramento da trajetória de crescimento desde a inauguração da primeira loja, o período de adaptação de um ano após a inauguração da última loja e três anos de maturação com volume de produção ascendente.
+
 ![Evolução](Imagens/2.Evolução_Histórica.png)
 
 ### 2. Matriz de Correlações
 Análise estatística visual utilizando a correlação das vendas com o índice de inflação, o preço do combustível, a taxa percentual de desemprego e a temperatura para identificar o comportamento das vendas e traçar os perfis das filiais.
+
 ![Correlações](Imagens/3.Correlações.png)
 
 ### 3. Panorama Consolidado
 Visão integrada da participação no mercado , do ranking de eficiência por filial e do impacto dos feriados na operação.
+
 ![Consolidado](Imagens/4.Consolidado.png)
 
 ---
