@@ -6,10 +6,10 @@
 Este projeto simula um cenário complexo de expansão da rede de varejo Walmart em um país fictício ao longo de 9 anos (2016-2025) e como o **Relatório de Dados Estratégico** permitiu à diretoria analisar o impacto de inaugurações, a eficiência regional e as correlações com indicadores macroeconômicos. O relatório foi gerado após a remodelagem e a ampliação de um dataset simples, disponibilizado pelo [Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales).
 
 > 📂 **Nota:** Para fins de preservação e facilidade de acesso, uma cópia do arquivo original (`Walmart_sales_analysis.csv`) também está disponível na pasta **[Dataset](./Datasets)** deste repositório.
-
+<br>
 
 Um artigo descrevendo toda a saga que essa remodelagem acabou se transformando estará disponível, muito em breve. Assim que estiver pronto, substituirei esssa linha pelo link para acesso.
-
+<br>
 
 🔗 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD INTERATIVO](link_em_breve)**
 
