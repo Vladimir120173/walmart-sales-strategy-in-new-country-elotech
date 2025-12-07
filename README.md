@@ -63,4 +63,4 @@ Visão integrada da participação no mercado , do ranking de eficiência por fi
 ![Consolidado](Imagens/4.Consolidado.png)
 
 ---
-*Desenvolvido por **Asdauer Tech** | Dezembro 2025*
+*Desenvolvido por **Ausdauer Tech** | Dezembro 2025*
