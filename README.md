@@ -35,7 +35,8 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
     * **UX/UI (Elo Tech Design):** Navegação entre as páginas como se o relatório fosse um aplicativo e utilização de Tooltips personalizadas.
 
 ---
-<br><br>
+<br>
+
 ### Nota de Execução
 > **Atenção:** Como o Power BI utiliza caminhos absolutos para fontes de dados locais, ao baixar e abrir o arquivo .pbix na sua máquina, é necessário reconectar a fonte de dados:
 > 1. No Power BI, vá em **Transformar Dados > Configurações da fonte de dados**.
@@ -101,5 +102,5 @@ Embora existam os picos concentrados nas semanas em que ocorrem a Black Friday e
 
 ### Conclusão
 O projeto simula um cenário de varejo saudável e resiliente. A empresa, após ter encerrado o seu cronograma de inaugurações, procurou consolidar a sua presença em todas as regiões. Com os resultados trazidos pela análise, concluiu-se que o varejo de produtos de necessidade básica consegue superar cenários adversos e complexos, mantendo-se estável. O próximo desafio é buscar entender as disparidades regionais e otimizar quais produtos são mais adequados para as lojas de menor volume.
-<br><br>
+<br><br><br>
 Desenvolvido por **Ausdauer Tech** | Dezembro 2025*
