@@ -45,18 +45,18 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
 
 ---
 
-## 💡 Algumas Imagens da Análise
-<br>
+## 💡 Algumas Imagens da Análise <br>
+
 ### 1. Evolução Histórica
 Monitoramento da trajetória de crescimento desde a inauguração da primeira loja, o período de adaptação de um ano após a inauguração da última loja e três anos de maturação com volume de produção ascendente.
 
 ![Evolução](Imagens/2.Evolução_Histórica.png)
-<br>
+<br><br>
 ### 2. Matriz de Correlações
 Análise estatística visual utilizando a correlação das vendas com o índice de inflação, o preço do combustível, a taxa percentual de desemprego e a temperatura para identificar o comportamento das vendas e traçar os perfis das filiais.
 
 ![Correlações](Imagens/3.Correlações.png)
-<br>
+<br><br>
 ### 3. Panorama Consolidado
 Visão integrada da participação no mercado , do ranking de eficiência por filial e do impacto dos feriados na operação.
 
@@ -86,8 +86,8 @@ A análise segmentada por regiões considerou dois momentos distintos: a trajet�
 Ao cruzar o volume de vendas com indicadores macroeconômicos e ambientais, por meio da análise em gráficos de dispersão, foram identificados alguns comportamentos distintos:
 * **Temperatura:** Embora a linha de tendência traga uma leve correlação negativa, parecendo que as temperaturas menores favorecem as vendas, a análise revela que a maioria das lojas se concentra em uma faixa intermediária . Portanto, apesar da existência de outliers de alta performance, a operação é resiliente em temperaturas amenas. A maioria das lojas mantêm suas vendas, porque quase não são afetadas por variações térmicas moderadas. 
 * **Combustível e Desemprego:**
-    * *Preço do Combustível:* Alguns outliers de alta performance provocaram a inclinação na linha de tendência, porém, a **concentração de dados**, ou seja, a massa principal de lojas, permanece estável no patamar médio de faturamento. Isso indica que não houve influência significativa do aumento no preço do combustível sobre as vendas. **Conclusão:** O cliente manteve o padrão de consumo.
-    * *Desemprego:* Existe uma concentração estável nas lojas que venderam mais. No entanto, a maior quantidade está situada na média e demonstra que as lojas continuaram a vender, mesmo com o aumento da taxa de desemprego. A hipótese levantada é que essas unidades estejam situadas em regiões nas quais a população possua maior **poder aquisitivo** ou que a dependência do emprego formal seja menor.
+    * ***Preço do Combustível:*** Alguns outliers de alta performance provocaram a inclinação na linha de tendência, porém, a **concentração de dados**, ou seja, a massa principal de lojas, permanece estável no patamar médio de faturamento. Isso indica que não houve influência significativa do aumento no preço do combustível sobre as vendas. **Conclusão:** O cliente manteve o padrão de consumo.
+    * ***Desemprego:*** Existe uma concentração estável nas lojas que venderam mais. No entanto, a maior quantidade está situada na média e demonstra que as lojas continuaram a vender, mesmo com o aumento da taxa de desemprego. A hipótese levantada é que essas unidades estejam situadas em regiões nas quais a população possua maior **poder aquisitivo** ou que a dependência do emprego formal seja menor.
 * **Inflação (IPC):** Esta foi outra correlação em que houve uma concentração estável com volume maior de vendas. Isso reforça que as variações dos índices de inflação não afetam determinadas regiões que continuaram com suas vendas no mesmo patamar, da mesma forma que a maioria, situada na média.
 <br>
 
