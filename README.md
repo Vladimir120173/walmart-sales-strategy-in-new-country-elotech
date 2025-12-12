@@ -1,7 +1,7 @@
 # Análise de Expansão Walmart (MVP v1.0)
 
 **Status do Projeto:** 🚧 MVP (Produto Mínimo Viável) / Em fase de aprimoramento e versionamento.
-<br>
+<br><br>
 
 ![Tela Inicial](Imagens/1.Tela_Inicial.png)
 
@@ -20,7 +20,7 @@ Um artigo descrevendo como a remodelagem desse dataset disponibilizado pelo Kagg
 <br>
 
 **Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou por qualquer outro motivo, ainda assim será possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Projetc deste repositório.
-<br><br>
+<br>
 
 ---
 
