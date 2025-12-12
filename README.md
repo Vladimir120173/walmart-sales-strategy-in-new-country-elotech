@@ -45,7 +45,7 @@ Como um MVP, este projeto está em processo de versionamento para inclusão de n
 - [ ] Implementação de análise preditiva (Forecast) utilizando Python integrado ao Power BI.
 
 ---
-<br>
+<br><br>
 
 ### Nota de Execução
 > **Atenção:** Como o Power BI utiliza caminhos absolutos para fontes de dados locais, ao baixar e abrir o arquivo .pbix na sua máquina, é necessário reconectar a fonte de dados:
