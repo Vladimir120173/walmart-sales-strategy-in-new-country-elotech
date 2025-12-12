@@ -90,7 +90,7 @@ A seguir, a análise realizada após a criação dos visuais com os dados transf
 O gráfico de evolução histórica demonstra uma **tendência ascendente consistente**. As inaugurações que ocorreram nesse período aceleraram o movimento, mas a partir do início do ano de 2022, após a última loja ter sido inaugurada, a curva de crescimento perde força, porém, sem deixar de continuar apresentando crescimento, mesmo que modesto.
 * **Estabilização:** A rede atingiu o ponto de maturidade no mercado. O crescimento orgânico continua, porém moderado e discreto o que leva à próxima fase na qual o foco estratégico deve migrar da expansão física, uma vez que não há necessidade de inaugurar mais lojas, para a busca pela excelência e eficiência operacional.
 * **Sazonalidade:** Durante todo o período, desde a inauguração da primeira loja até o ano de 2024, os picos de receita ocorreram entre a **metade do mês de novembro e a última semana do mês de dezembro**, o que reforça a importância da Black Fryday e do período de festas de fim de ano. É o retrato da dependência do varejo em relação a essas datas.
-<br>
+
 
 ### 2. Performance Regional
 A análise segmentada por regiões considerou dois momentos distintos: a trajetória de crescimento individiual e a produção após um ano de maturação, a partir da inauguração da última loja. As lojas foram rankeadas dentro de suas respectivas regiões considerando as vendas no intervalo entre outubro de 2022 e outubro de 2025. O principal objetivo para o corte antes do término do ano de 2025 está atrelado às manifestações dos diretores de algumas regionais que se mostraram favoráveis à inauguração de outras filiais. O resultado a seguir recomenda que não é o momento adequado para isso.
