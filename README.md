@@ -22,7 +22,7 @@ Um artigo descrevendo como a remodelagem desse dataset disponibilizado pelo Kagg
 **Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou por qualquer outro motivo, ainda assim será possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Projetc deste repositório.
 
 ---
-<br>
+
 
 ## Engenharia e Tecnologias
 O projeto foi desenvolvido simulando um ciclo completo de BI:
