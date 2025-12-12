@@ -80,6 +80,7 @@ Visão integrada da participação no mercado , do ranking de eficiência por fi
 
 
 ---
+<br>
 
 ## Análise de Dados e Insights de Negócio
 
@@ -115,6 +116,7 @@ A diferença apurada entre a média das semanas com feriado e as semanas normais
 Embora existam os picos concentrados nas semanas em que ocorrem a Black Friday e as festas de fim de ano, o restante dos feriados não influenciam o aumento ou a diminuição das vendas e isso é favorável para as semanas normais que estão em maior quantidade.
 
 ---
+<br>
 
 ### Conclusão
 O projeto simula um cenário de varejo saudável e resiliente. A empresa, após ter encerrado o seu cronograma de inaugurações, procurou consolidar a sua presença em todas as regiões. Com os resultados trazidos pela análise, concluiu-se que o varejo de produtos de necessidade básica consegue superar cenários adversos e complexos, mantendo-se estável. O próximo desafio é buscar entender as disparidades regionais e otimizar quais produtos são mais adequados para as lojas de menor volume.
