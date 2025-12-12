@@ -77,8 +77,9 @@ Visão integrada da participação no mercado , do ranking de eficiência por fi
 
 ![Consolidado](Imagens/4.Consolidado.png)
 
+<br>
 ---
-<br><br>
+
 ## Análise de Dados e Insights de Negócio
 
 A seguir, a análise realizada após a criação dos visuais com os dados transformados. 
