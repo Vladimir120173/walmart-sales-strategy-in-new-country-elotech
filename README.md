@@ -1,6 +1,7 @@
 # Análise de Expansão Walmart (MVP v1.0)
 
 > **Status do Projeto:** 🚧 MVP (Produto Mínimo Viável) / Em fase de aprimoramento e versionamento.
+<br>
 
 ![Tela Inicial](Imagens/1.Tela_Inicial.png)
 
