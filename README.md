@@ -40,7 +40,7 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
     * **Modelagem:** Star Schema com tabelas Fato e Dimensões.
     * **DAX Avançado:** Manipulação de contexto de filtro para métricas de eficiência e inteligência de tempo.
     * **UX/UI (Elo Tech Design):** Navegação entre as páginas como se o relatório fosse um aplicativo e utilização de Tooltips personalizadas.
-<br>
+
 
 ---
 
@@ -59,7 +59,7 @@ Como um MVP, este projeto está em processo de versionamento para inclusão de n
 > 4. Não esqueça, caso resolva optar por baixar os arquivos, de especificar em quais pastas eles serão armazenados. Recomendo que seja utilizada a mesma estrutura que você está encontrando aqui, porque se mudar a fonte de dados, isto é, o arquivo .xlsx, deverá realizar uma nova atualização, conforme mostrado no item 1.
 
 ---
-
+<br>
 
 ## Algumas Imagens da Análise <br>
 
