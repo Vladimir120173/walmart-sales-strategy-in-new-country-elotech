@@ -5,7 +5,7 @@
 
 ![Tela Inicial](Imagens/1.Tela_Inicial.png)
 
-<br>
+---
 
 ## Visão Geral
 Este projeto simula um cenário complexo de expansão da rede de varejo Walmart em um país fictício ao longo de 9 anos (2016-2025). O objetivo é demonstrar como um **Relatório de Dados Estratégico** permite à diretoria analisar o impacto de inaugurações, a eficiência regional e as correlações com indicadores macroeconômicos. O relatório foi gerado após a remodelagem e a ampliação de um dataset simples, disponibilizado pelo **[Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)**.
@@ -40,7 +40,7 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
     * **Modelagem:** Star Schema com tabelas Fato e Dimensões.
     * **DAX Avançado:** Manipulação de contexto de filtro para métricas de eficiência e inteligência de tempo.
     * **UX/UI (Elo Tech Design):** Navegação entre as páginas como se o relatório fosse um aplicativo e utilização de Tooltips personalizadas.
-<br><br>
+<br>
 
 ---
 
@@ -57,11 +57,9 @@ Como um MVP, este projeto está em processo de versionamento para inclusão de n
 > 2. Clique em **Alterar Fonte**.
 > 3. Aponte para o arquivo `Walmart_Processed_Data.xlsx` que está dentro da pasta `Dataset` deste repositório.
 > 4. Não esqueça, caso resolva optar por baixar os arquivos, de especificar em quais pastas eles serão armazenados. Recomendo que seja utilizada a mesma estrutura que você está encontrando aqui, porque se mudar a fonte de dados, isto é, o arquivo .xlsx, deverá realizar uma nova atualização, conforme mostrado no item 1.
-<br>
 
 ---
 
-<br>
 
 ## Algumas Imagens da Análise <br>
 
